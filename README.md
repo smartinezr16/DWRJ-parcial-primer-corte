@@ -7,6 +7,8 @@ El reto consiste en elaborar la siguiente vista
 
 ![Vista Principal](./design/vista-principal.png)
 
+encontraras en el siguiente [Figma](https://www.figma.com/design/7nmgcsBD8jzkRA4FCVF0sc/Rick-and-Morty-Primer-parcial?node-id=13-2011&t=4gBe1RLIsBqwkvK2-1).
+
 
 Para obtener los datos de la vista deberás consumir un API a través de un servicio descrito
 en en el archivo [service.js](./src/service.js).
@@ -55,22 +57,13 @@ Una vez terminado el ejercicio se debe subir a un repositorio creado por ti y ag
 como colaborador como se indica [aquí](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 
 
-Se evaluaran los siguientes aspectos:
+la evaluación se realizara por requisitos funcionales
 
 
-1. HTML (1 punto)
-     * correcto uso de las etiquetas
-     * correcto uso de la semántica
-     * correcto uso de las propiedades
+1. Estilos y diseño HTML y CSS deacuerdo al figma (2 puntos)
       
-2. CSS (2 puntos)
-     * correcto nombramiento de las clases
-     * parecido con el diseño requerido
-     * responsive design (puntos extra)
+2. Listado de personajes con toda la información solicitada
+   esto incluye indicador de Alive & Dead con el estilo respectivo (2 puntos)
        
-3. JS (2 puntos)
-     * implementación de clases y objetos
-     * manejo de las promesas o funciones asíncronas
-     * manejo uso de eventos
-     * acceso al DOM
+3. Evento de click y mensaje informativo ´Hola soy (nombre personaje)´ (1 punto) 
 

@@ -9,7 +9,6 @@ import RickAndMortyService from './service';
 // iterar el arreglo de personajes y llamar a la función createCharacterCard para agregar cada personaje
 // a el contenedor puedes usar la propiedad innerHTML para esto
 
-// valor (1 punto)
 
 function createCharacterList() {
     // llamar primero createCharacterCard(character);
@@ -25,12 +24,12 @@ function createCharacterList() {
 
 // deberás usar los elementos correctos de HTML para poder visualizar el personaje
 
-// valor (1 punto) HTML
 
 function createCharacterCard(character) {}
 
-// esta función deberá obtener todos los personajes y deberá agregarles un evento de click
-// cuando se seleccione un personaje debe decir hola soy 'nombre personaje', recuerda que puedes obtener
+// esta función deberá obtener todos los personajes y deberá agregarles un evento de click en el icono de corazon
+// cuando se haga click al icono de corazon aparecer una alerta con un mensaje 
+// que diga Hola soy (nombre personaje), recuerda que puedes obtener
 // el elemento target de un evento y así obtener sus propiedades
 
 function addCharacterListeners(character) {}

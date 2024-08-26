@@ -75,7 +75,6 @@ class RickAndMortyService {
     //  const response = await fetch('miurl');
     //  const mispersonajes = await response.json();
 
-    // valor (1 punto)
 	getAllCharacters() {
         // aqui va tu llamado al API usando fetch puedes usar promesas o asycn/await
 	}
