@@ -1,0 +1,26 @@
+
+1. capa de servicio (service.js):
+    ? que paso con el servicio ????
+    + buen manejo de async await
+    ! esta bien el traer todos los personajes, sin embargo el uso del while puede afectar el performance de tu appendChild
+2.  manejo HTML y Acceso al DOM (index.js):
+    + excelente manejo del DOM de los elementos y sus propiedades
+    ! recuerda que el uso de template string te puede ayudar mejor a estructurar tu HTML
+3.  manejo de eventos (index.js)
+    + buen manejo de eventos
+4.  manejo de estilos
+    + buen manejo de estilos
+    ! recuerda que el formato cuenta, formatea siempre tus archivos
+    - la proporcion de los iconos y los textos no es la correcta -0.2
+
+Muy buen trabajo !
+
+Calificacion
+  1. Estilos y diseño HTML y CSS deacuerdo al figma -> CUMPLE (1.8 puntos) -0.2 por tamaño de iconos y proporcion de estilos con respecto al figma
+  2. Listado de personajes con toda la información solicitada esto incluye indicador de Alive & Dead con el estilo respectivo -> CUMPLE (2 puntos)
+  3. Evento de click y mensaje informativo ´Hola soy (nombre personaje)´ -> CUMPLE (1 punto)
+
+Nota: 4.8
+
+
+ejercicio puntual: no hay ejercicio puntual 0
